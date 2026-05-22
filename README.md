@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**forgetrelics/forgetrelics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![snake](./output/snake.svg)
 
-Here are some ideas to get you started:
+## 🔭 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 研究方向：大模型微调、强化学习、Agent
+- 🌱 目前在学习：
+  - LLM Fine-tuning (LoRA, QLoRA, etc.)
+  - Reinforcement Learning (RLHF, PPO, etc.)
+  - Agent 开发与实践
+
+## 📚 正在探索
+
+- LLM 部署与优化
+- Agent 架构设计
+- 强化学习在 LLM 中的应用
+
+## ⚡ Fun fact
+
+- 当我调试不通的时候，不是 bug 太复杂，是我太简单 😄
+
+---
+
+*正在学习的路上持续前进...*
