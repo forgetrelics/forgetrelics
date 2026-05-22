@@ -1,18 +1,4 @@
-<div align="center">
-<!-- 动态打字效果 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=%E5%AE%81%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%B8%8F%E5%85%A5%E6%88%91%E7%9A%84%E5%AE%87%E5%AE%99" alt="Typing SVG" />
-</a>
 
-<!-- 个性签名 -->
-<p><i>🚀 LLM & RL & Agent 学习者</i></p>
-
-<!-- 社交图标 -->
-<a href="https://github.com/forgetrelics">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
