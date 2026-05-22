@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![snake](./output/snake.svg)
+![snake](https://raw.githubusercontent.com/forgetrelics/forgetrelics/main/output/snake.svg)
+
 
 ## 🔭 关于我
 
